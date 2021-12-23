@@ -8,7 +8,7 @@
 <br/><br/>
 
 
-## Fungap 
+## 😊 Fungap 
 <img width="50%" src="https://user-images.githubusercontent.com/43086867/146896305-f4f600f4-746a-4622-ba86-9b8c63659c5e.png" alt="펀갭"/>
 
 > 스파르타코딩클럽 '항해99' 3기 실전 프로젝트 'Fungap'
