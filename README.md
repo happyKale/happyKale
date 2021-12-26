@@ -1,6 +1,8 @@
 ### 😄 제 몫을 해내는 프론트엔드 개발자가 되고자 합니다.
-- 현재 스파르타코딩클럽의 부트 캠프인 '항해99' 3기에 참여하고 있습니다.
+- 이력서: [링크](https://github.com/happyKale/happyKale/blob/main/portfolio/%5B%EC%9D%B4%EB%A0%A5%EC%84%9C%5D%EA%B9%80%EC%84%B8%EC%97%B0.pdf)
+- 포트폴리오: [링크](https://github.com/happyKale/happyKale/blob/main/portfolio/%5B%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%5D%EA%B9%80%EC%84%B8%EC%97%B0.pdf)
 
+<br/>
 
 <div>
   <h3> ⚡ 기술 스택 </h3> 
