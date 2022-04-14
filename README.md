@@ -1,8 +1,8 @@
 ### 😄 제 몫을 해내는 프론트엔드 개발자가 되고자 합니다.
-- 현재 팀원들과 함께 운영하고 있는 사이트 [Fungap](https://fungap.shop/)을 구경해보세요!
 - 이력서: [링크](https://github.com/happyKale/happyKale/blob/main/portfolio/%5B%EC%9D%B4%EB%A0%A5%EC%84%9C%5D%EA%B9%80%EC%84%B8%EC%97%B0.pdf)
 - 포트폴리오: [링크](https://github.com/happyKale/happyKale/blob/main/portfolio/%5B%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%5D%EA%B9%80%EC%84%B8%EC%97%B0.pdf)
-
+- 항해3기 최종 프로젝트는 현재 서버가 내려가 있는 상태입니다. <br/>
+  해당 페이지에서 항해3기 5조 Fungap의 발표영상을 참고해주시면 감사하겠습니다.<br/>(https://hanghae99.spartacodingclub.kr/exhibitions/main/3/A)
 <br/>
 
 
